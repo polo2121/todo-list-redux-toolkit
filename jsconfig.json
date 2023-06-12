@@ -1,0 +1,11 @@
+{
+    "complierOptions":{
+        "baseUrl": "./src/",
+        "paths" : {
+            "@components/*" : ["components/*"],
+            "@features/*" : ["features/*"],
+            "@assets/*" : ["assets/*"],
+            "@store/*" : ["store/*"]
+        }
+    }
+}
